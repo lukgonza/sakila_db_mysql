@@ -1,4 +1,4 @@
-# sakila_db_mysql
+# sakila_mysql_homework
 
 Homework Assignment
 
